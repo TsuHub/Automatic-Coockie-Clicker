@@ -10,7 +10,7 @@ This script has the purpose of automatically clicking on the cookies.
 
 To run this program, you need:
 
-	1 - python installed;
+	1 - have python installed;
 	
 	2 - the pynput lib installed
 		to install (at the terminal): pip install pynput
